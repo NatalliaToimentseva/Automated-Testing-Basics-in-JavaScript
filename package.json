@@ -1,0 +1,19 @@
+{
+  "name": "atbcourse",
+  "version": "1.0.0",
+  "description": "second practical task in NodeJS and Dependency Management",
+  "main": "helloword.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalliaToimentseva/Automated-Testing-Basics-in-JavaScript.git"
+  },
+  "keywords": [
+    "Automated-Testing-Basics-in-JavaScript"
+  ],
+  "author": "Natalia.Toimentseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalliaToimentseva/Automated-Testing-Basics-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/NatalliaToimentseva/Automated-Testing-Basics-in-JavaScript#readme"
+}
