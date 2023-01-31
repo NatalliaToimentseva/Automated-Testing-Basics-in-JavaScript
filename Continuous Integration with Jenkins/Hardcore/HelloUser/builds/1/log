@@ -1,0 +1,10 @@
+Started by user [8mha:////4K17oQYacfs/V9UB+FN37ys2z0RE++HaSg768Ho++YBLAAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZJ/dLi1CL9vMSSxJzMxPiS/Mzc1LyS4tSyRACTmfm1zgAAAA==[0mNatalia Toimentseva
+Running as SYSTEM
+Building on the built-in node in workspace C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser
+[HelloUser] $ cmd /c call C:\Windows\TEMP\jenkins2698950181320392410.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser>echo "Hello, Natali" 
+"Hello, Natali"
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HelloUser>exit 0 
+Finished: SUCCESS
